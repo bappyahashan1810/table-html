@@ -1,0 +1,23 @@
+nav ul {
+    display: flex;
+
+}
+
+nav li {
+    list-style: none;
+
+}
+
+nav li:hover {
+    color: yellowgreen;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin: 0 20px;
+    padding: 5px 10px;
+    background-color: darkcyan;
+    border-radius: 5px;
+
+}
